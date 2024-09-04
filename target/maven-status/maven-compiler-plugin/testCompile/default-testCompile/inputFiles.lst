@@ -1,0 +1,12 @@
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Baseclass\BaseClass.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\PageObjects\BasePage.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\PageObjects\HomePage.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\PageObjects\LoginPage.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\PageObjects\MyAccountPage.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\PageObjects\RegistrationPage.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Testcases\TC001_AccountRegistrationTest.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Testcases\TC002_LoginTest.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Testcases\TC003_LoginDDT.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Utilites\DataProviders.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Utilites\ExcelUtility.java
+C:\Users\ak252\Documents\Automation\openkart\src\test\java\Utilites\ExtentReportManager.java
