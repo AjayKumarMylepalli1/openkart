@@ -1,6 +1,7 @@
 Baseclass\BaseClass.class
 PageObjects\RegistrationPage.class
 Utilites\ExtentReportManager.class
+Testcases\TC004_Search.class
 Testcases\TC002_LoginTest.class
 Utilites\DataProviders.class
 Utilites\ExcelUtility.class

@@ -41,7 +41,7 @@ public class BaseClass {
 		  
 		  logger =  (Logger) LogManager.getLogger(this.getClass());
 		  
-		  if(p.getProperty("execution_env").equalsIgnoreCase("remote"));
+		/*  if(p.getProperty("execution_env").equalsIgnoreCase("remote"));
 		  DesiredCapabilities Capabilities = new DesiredCapabilities();
 		  {
 			  //os
@@ -77,7 +77,7 @@ public class BaseClass {
 			  case "firefox" : driver = new FirefoxDriver();break;
 			  default : System.out.println("Invaild broswer Name ..");return;
 			  }  
-		  }
+		  }*/
 		  switch(br.toLowerCase())
 		  {
 		  case "chrome" : driver = new ChromeDriver();break;
@@ -87,13 +87,14 @@ public class BaseClass {
 		  }
 		  
 
-		  
+		 driver =new ChromeDriver();
 	  driver.manage().deleteAllCookies();
 	  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	 
 	  //driver.get("https://tutorialsninja.com/demo/");
 	  driver.get(p.getProperty("appURL2"));   // reading url from  properties file
-	  driver.manage().window().maximize(); }
+	  driver.manage().window().maximize();
+	  }
 	  
 	  @AfterClass 
 	  public void tearDown() {

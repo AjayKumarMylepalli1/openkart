@@ -10,7 +10,10 @@
     <classes>
        <class name="Testcases.TC001_AccountRegistrationTest"/> 
         <class name="Testcases.TC002_LoginTest"/> 
-  <!--    <class name="Testcases.TC003_LoginDDT"/>-->
+  <!--  <class name="Testcases.TC003_LoginDDT"/>-->
+  	<!-- <class name="Testcases.TC004_SearchProductTest"/>-->
+      <!--  <class name="Testcases.TC005_AddToCartPageTest"/>-->
+    <!--    <class name="Testcases.TC006_EndToEndTest"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -1353,3 +1353,47 @@ Method public void Testcases.TC003_LoginDDT.verify_loginDDT(java.lang.String,jav
   C:\Users\ak252\Documents\Automation\openkart\master.xml
 
 18:59:21.514 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : Utilites.ExtentReportManager
+13:46:04.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ak252\Documents\Automation\openkart\master.xml
+
+13:46:33.282 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest ***
+13:46:33.436 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****Clicked My Account Link ***
+13:46:34.590 [main] INFO  Testcases.TC001_AccountRegistrationTest - **** clicked on register ...***
+13:46:34.602 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****providing customer Details ***
+13:46:36.416 [main] INFO  Testcases.TC001_AccountRegistrationTest - *** validating ecpected message *****
+13:46:36.488 [main] INFO  Testcases.TC001_AccountRegistrationTest - Test case Finished 
+13:46:42.370 [main] INFO  Testcases.TC002_LoginTest - ***** Starting Tc_002 Login Test ****
+13:46:44.429 [main] INFO  Testcases.TC002_LoginTest - ***** Finished Tc_002_ LoginTest*******
+13:48:51.542 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ak252\Documents\Automation\openkart\CrossBroswerTesting.xml
+
+13:49:02.898 [TestNG-tests-1] INFO  Testcases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest ***
+13:49:03.420 [TestNG-tests-1] ERROR Testcases.TC001_AccountRegistrationTest - Test Failed 
+13:49:13.144 [TestNG-tests-2] INFO  Testcases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest ***
+13:49:13.393 [TestNG-tests-2] INFO  Testcases.TC001_AccountRegistrationTest - ****Clicked My Account Link ***
+13:49:15.784 [TestNG-tests-2] INFO  Testcases.TC001_AccountRegistrationTest - **** clicked on register ...***
+13:49:15.790 [TestNG-tests-2] INFO  Testcases.TC001_AccountRegistrationTest - ****providing customer Details ***
+13:49:18.487 [TestNG-tests-2] INFO  Testcases.TC001_AccountRegistrationTest - *** validating ecpected message *****
+13:49:18.594 [TestNG-tests-2] INFO  Testcases.TC001_AccountRegistrationTest - Test case Finished 
+13:49:50.515 [TestNG-tests-3] INFO  Testcases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest ***
+13:49:50.666 [TestNG-tests-3] INFO  Testcases.TC001_AccountRegistrationTest - ****Clicked My Account Link ***
+13:49:51.523 [TestNG-tests-3] INFO  Testcases.TC001_AccountRegistrationTest - **** clicked on register ...***
+13:49:51.524 [TestNG-tests-3] INFO  Testcases.TC001_AccountRegistrationTest - ****providing customer Details ***
+13:49:53.231 [TestNG-tests-3] INFO  Testcases.TC001_AccountRegistrationTest - *** validating ecpected message *****
+13:49:53.288 [TestNG-tests-3] INFO  Testcases.TC001_AccountRegistrationTest - Test case Finished 
+13:59:29.132 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest ***
+13:59:29.352 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****Clicked My Account Link ***
+13:59:30.002 [main] INFO  Testcases.TC001_AccountRegistrationTest - **** clicked on register ...***
+13:59:30.007 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****providing customer Details ***
+13:59:31.580 [main] INFO  Testcases.TC001_AccountRegistrationTest - *** validating ecpected message *****
+13:59:31.622 [main] INFO  Testcases.TC001_AccountRegistrationTest - Test case Finished 
+13:59:37.538 [main] INFO  Testcases.TC002_LoginTest - ***** Starting Tc_002 Login Test ****
+13:59:39.550 [main] INFO  Testcases.TC002_LoginTest - ***** Finished Tc_002_ LoginTest*******
+14:00:39.871 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****TC001_AccountRegistrationTest ***
+14:00:40.052 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****Clicked My Account Link ***
+14:00:43.345 [main] INFO  Testcases.TC001_AccountRegistrationTest - **** clicked on register ...***
+14:00:43.352 [main] INFO  Testcases.TC001_AccountRegistrationTest - ****providing customer Details ***
+14:00:49.807 [main] INFO  Testcases.TC001_AccountRegistrationTest - *** validating ecpected message *****
+14:00:49.870 [main] INFO  Testcases.TC001_AccountRegistrationTest - Test case Finished 
+14:01:15.067 [main] INFO  Testcases.TC002_LoginTest - ***** Starting Tc_002 Login Test ****
+14:01:20.253 [main] INFO  Testcases.TC002_LoginTest - ***** Finished Tc_002_ LoginTest*******
