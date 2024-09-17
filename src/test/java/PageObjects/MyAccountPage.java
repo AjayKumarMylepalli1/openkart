@@ -19,7 +19,7 @@ public class MyAccountPage extends BasePage {
 		}
 		catch(Exception e) 
 		{
-			
+			System.out.println("this is captured ");
 		}
 		return false;
 	}
